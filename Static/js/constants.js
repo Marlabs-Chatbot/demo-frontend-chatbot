@@ -1,8 +1,8 @@
 // const initial_action_name = "action_initial_greet";
 // const rasa_server_url = "https://rasa-actions-server-keshabmanni.cloud.okteto.net";
 const rasa_server_API = "http://172.174.164.23:5005/webhooks/rest/webhook";
-const botAvatar_img_src = "./Static/img/botAvatar.jpg";
-const userAvatar_img_src = "./Static/img/userAvatar.jpg";
+const botAvatar_img_src = "/Static/img/botAvatar.jpg";
+const userAvatar_img_src = "/Static/img/userAvatar.jpg";
 const rasa_conversation_API = "http://localhost:5005/conversations/"
 
 var suggestion_topics=[];
